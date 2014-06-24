@@ -9,7 +9,7 @@ Completed user stories:
 * [x] Optional: Implement map view of restaurant results
 * [x] Filter page
 * [x] You can use the default UISwitch for on/off states
-
+* [x] Pods: AFNetworking, MBProgressHUD, BDBOAuth1Manager, Google-Maps-iOS-SDK
 
 Notes:
 Spent too much time on the Infinite scrolling (optional) and then spent too much time on the Map View, when I found it that the Yelp api does not return lat & long for each business.
